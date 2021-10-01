@@ -11,7 +11,7 @@ Send notification to your telegram group/channel/private whenever a new video is
 
 ## Deploying
 This can be deployed to any platform.
-- Click to deploy to [Heroku](https://heroku.com/deploy?template=https://github.com/xditya/YouTubeFeeds)
+- Click to deploy to [Heroku](https://heroku.com/deploy?template=https://github.com/pernandapurba/YouTubeFeeds)
 - Qovery:    
   Redis url and password need not be added manually and qovery db can be used.
 - Locals:   
