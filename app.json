@@ -3,6 +3,7 @@
     "description": "YouTubeFeeds Bot.",
     "repository": "https://github.com/xditya/YouTubeFeeds",
     "success_url": "https://t.me/BotzHubChat",
+    "stack": "container",
     "env": {
         "BOT_TOKEN": {
             "description": "Token of your bot, from @BotFather.",
